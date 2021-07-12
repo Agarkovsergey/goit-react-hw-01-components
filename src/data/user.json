@@ -1,0 +1,26 @@
+[
+    {   
+        "id": "id1",
+        "name": "Jacques Gluke",
+        "tag": "jgluke",
+        "location": "Ocho Rios, Jamaica",
+        "avatar": "https://www.flaticon.com/svg/static/icons/svg/3784/3784184.svg",
+        "stats": {
+            "followers": 5603,
+            "views": 4827,
+            "likes": 1308
+        }
+    },
+    {
+        "id": "id2",
+        "name": "lorem ipsum",
+        "tag": "dolor",
+        "location": "Sit amet, lorem",
+        "avatar": "https://www.flaticon.com/svg/static/icons/svg/3784/3784184.svg",
+        "stats": {
+            "followers": 4572,
+            "views": 1025,
+            "likes": 607
+        }
+    }
+]
